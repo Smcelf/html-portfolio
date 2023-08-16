@@ -1,2 +1,2 @@
 # html-portfolio
-2023 Web Dev Bootcamp HTML Projectr
+2023 Web Dev Bootcamp HTML Project
